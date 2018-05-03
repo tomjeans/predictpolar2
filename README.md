@@ -1,1 +1,1 @@
-# predictpolar2
+对predictdemo改进了一下，主要是在数据的处理方面，好像就是个回归的问题。
