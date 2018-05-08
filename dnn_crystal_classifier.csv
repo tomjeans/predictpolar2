@@ -6,8 +6,8 @@ O=C1Nc2c(cccc2)C12CC[NH2+]C2,0
 S(=O)(=O)(N(C)c1cc(cc(c1)C(=O)NC(Cc1ccccc1)C(O)Cn1nccc1)C(=O)NC(C)c1ccc(F)cc1)C,1
 S(=O)(=O)(N(C)c1cc(cc(c1)C(=O)NC(Cc1ccccc1)C(O)Cn1nnc(c1)C(=O)C)C(=O)NC(C)c1ccc(F)cc1)C,1
 S(=O)(=O)(N(C)c1cc(cc(c1)C(=O)NC(Cc1ccccc1)C(O)C[NH2+]CCC1CC[NH+](CC1)Cc1ccccc1)C(=O)NC(C)c1ccccc1)C,1
-Clc1cc2CC([NH+]=C(NC(CC3C(=CSC3CCC)c3cn[nH]c3)C=3NC(=O)C=CN=3)c2cc1)(C)C,1
-Clc1c(cc(nc1N(S(=O)(=O)C)C)N(CC1CC1C)CCOC)-c1oc(nn1)C([NH3+])(Cc1ccccc1)C,1
+Clc1cc2CC([NH+]=C(NC(CC3C(=CSC3CCC)c3cn[nH]c3)C=3NC(=O)C=CN=3)c2cc1)(C)C,0
+Clc1c(cc(nc1N(S(=O)(=O)C)C)N(CC1CC1C)CCOC)-c1oc(nn1)C([NH3+])(Cc1ccccc1)C,0
 O=C1Nc2c(cccc2)C12CC([NH2+]C2)C(OC)=O,0
 o1c(cnc1C([NH2+]CC(O)C1NC(=O)c2cc(cc(c2)C(=O)CCC\C=C\COC1)C)(C)C)C(C)(C)C,1
 Fc1cc(F)ccc1C12N=C(OC1CN(CC2)c1ncccc1C#N)N,1
